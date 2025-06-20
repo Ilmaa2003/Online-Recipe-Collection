@@ -1,12 +1,14 @@
-Here's your **Online Recipe Collection System** documentation, professionally formatted as a clean `README.md` file—ready to include in your project repository:
-
----
-
 # Online Recipe Collection System
 
 ## Overview
 
 The Online Recipe Collection System is a web-based application that allows **Admins** to manage recipes and **Users** to browse, search, and review them. The system supports user authentication, review submission, and recipe management via a MySQL database.
+
+![Online Recipe Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Online-Recipe-Collection/main/Images/IMG-20250619-WA0028.jpg)
+
+![Online Recipe Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Online-Recipe-Collection/main/Images/IMG-20250619-WA0025.jpg)
+
+![Online Recipe Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Online-Recipe-Collection/main/Images/IMG-20250619-WA0023.jpg)
 
 ---
 
